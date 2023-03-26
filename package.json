@@ -9,14 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "18.15.3",
+    "@types/node": "^18.15.3",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
+    "bluebird": "^3.7.2",
+    "clicksend": "^5.0.37",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "http": "^0.0.1-security",
     "next": "13.2.4",
+    "openai": "^3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "request": "^2.88.2",
+    "twilio": "^4.8.0",
     "typescript": "5.0.2"
   }
 }
